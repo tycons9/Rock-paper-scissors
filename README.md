@@ -1,4 +1,4 @@
-📝 Todo List & 🪨📄✂️ Rock-Paper-Scissors Game
+📝 Todo List & 🪨✂️ Rock-Paper-Scissors Game
 A mini-project collection using HTML, CSS, and JavaScript.
 
 📌 1. Todo List App
